@@ -18,21 +18,21 @@ Phone: 518-419-8230   ---   Email: wyattbushman117@gmail.com
 
 # PROFESSIONAL PROJECTS AND WORK EXPERIENCE
 
-### ESRB DATA ANALYSIS
+### [ESRB DATA ANALYSIS](https://github.com/WyattAlexander-001/ESRB_Rating_Analysis/blob/main/ESRB/ESRB_V1.ipynb)
 * Used Python Jupyter Notebooks to analyze the ESRB rating system for video games, specifically PS4 and Xbox.
 *	Analyzed each rating: E, E10, T, and M and their correlation and accuracy to ESRB criteria.
 *	Created models with decision tree classifier and random forests to check accuracy of ESRB.
 
-### COVID-19 DATA ANALYSIS
+### [COVID-19 DATA ANALYSIS](https://github.com/WyattAlexander-001/Covid_Analysis__Visual_Portfolio_Project_SQL)
 *	Used Excel, SQL, and Tableau to create an interactive dashboard with 6 month forecasting for COVID-19 data. 
 *	Data was: cleaned, analyzed, and temp tables created using: Excel and SQL.
 
-### REDDIT REPLY BOT
+### [REDDIT REPLY BOT](https://github.com/WyattAlexander-001/Reddit_Reply_Bot)
 *	A bot to reply to users of any specific subreddit a quote that is stored in a list data structure.
 *	Utilized the Reddit API PRAW to retrieve user data and parse keywords.
 *	Possible application(s) in marketing and advertisement.
 
-### BLACK JACK PYTHON
+### [BLACK JACK PYTHON](https://github.com/WyattAlexander-001/Black_Jack_Python)
 *	Fully functional “Black Jack” terminal application. 
 *	Shows understanding fundamentals such as: data types, variables, conditional statements, loops, and functions
 *	Utilized Unicode for ASCII art for face value cards.
