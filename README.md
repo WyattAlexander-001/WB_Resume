@@ -1,7 +1,7 @@
 # Wyatt A. Bushman
 Phone: 518-419-8230   ---   Email: wyattbushman117@gmail.com
-[Github:] (Github.com/WyattAlexander-001) --- [Portfolio:] (Wyattalexander-001.github.io/Wyatt_Portfolio/)
-[LinkedIn:] (Linkedin.com/in/wyatt-bushman/)
+[Github:](Github.com/WyattAlexander-001) --- [Portfolio:](Wyattalexander-001.github.io/Wyatt_Portfolio/)
+[LinkedIn:](Linkedin.com/in/wyatt-bushman/)
 
 
 # Technical Proficiencies: 
